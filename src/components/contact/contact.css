@@ -1,0 +1,28 @@
+.c{
+   position: relative;
+   align-content: center;
+}
+.c-bg{
+    background-color: #59b256;
+    position: absolute;
+}
+
+.c-title{
+    width: 80%;
+    align-items: center;
+}
+.c-info-item{
+    display: flex;
+    height: 40px;
+    padding: auto;
+    border-radius:6px ;
+    justify-content: space-around;
+    background-color: #59b256;
+}
+a{
+    color: inherit;
+}
+.c-ico{
+margin: auto;
+cursor: pointer;
+}
