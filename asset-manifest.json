@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/TechyRishi/myporfile/static/css/main.edeb7cd1.css",
-    "main.js": "/TechyRishi/myporfile/static/js/main.cc54538e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/TechyRishi/myporfile/static/js/787.1ed0c42c.chunk.js",
-    "static/media/w3Page.png": "/TechyRishi/myporfile/static/media/w3Page.68830a008759231bf9d9.png",
-    "static/media/youtubePage.png": "/TechyRishi/myporfile/static/media/youtubePage.987911691b00e69848cb.png",
-    "static/media/reactPage.png": "/TechyRishi/myporfile/static/media/reactPage.24177e57da7b8badc8bc.png",
-    "static/media/mdnPage.png": "/TechyRishi/myporfile/static/media/mdnPage.ba1f5a0376b2ce88f1df.png",
-    "static/media/Sun.png": "/TechyRishi/myporfile/static/media/Sun.5c86f6dbc92671f71fd2.png",
-    "static/media/Rushi_dp.png": "/TechyRishi/myporfile/static/media/Rushi_dp.eff71eaf411408844b16.png",
-    "index.html": "/TechyRishi/myporfile/index.html",
-    "main.edeb7cd1.css.map": "/TechyRishi/myporfile/static/css/main.edeb7cd1.css.map",
-    "main.cc54538e.js.map": "/TechyRishi/myporfile/static/js/main.cc54538e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/TechyRishi/myporfile/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/myporfile/static/css/main.edeb7cd1.css",
+    "main.js": "/myporfile/static/js/main.5fe353c0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/myporfile/static/js/787.1ed0c42c.chunk.js",
+    "static/media/w3Page.png": "/myporfile/static/media/w3Page.68830a008759231bf9d9.png",
+    "static/media/youtubePage.png": "/myporfile/static/media/youtubePage.987911691b00e69848cb.png",
+    "static/media/reactPage.png": "/myporfile/static/media/reactPage.24177e57da7b8badc8bc.png",
+    "static/media/mdnPage.png": "/myporfile/static/media/mdnPage.ba1f5a0376b2ce88f1df.png",
+    "static/media/Sun.png": "/myporfile/static/media/Sun.5c86f6dbc92671f71fd2.png",
+    "static/media/Rushi_dp.png": "/myporfile/static/media/Rushi_dp.eff71eaf411408844b16.png",
+    "index.html": "/myporfile/index.html",
+    "main.edeb7cd1.css.map": "/myporfile/static/css/main.edeb7cd1.css.map",
+    "main.5fe353c0.js.map": "/myporfile/static/js/main.5fe353c0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/myporfile/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edeb7cd1.css",
-    "static/js/main.cc54538e.js"
+    "static/js/main.5fe353c0.js"
   ]
 }
